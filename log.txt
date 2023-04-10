@@ -1,0 +1,4 @@
+
+ошибка: invalid literal for int() with base 10: 'чавкала'
+ошибка: invalid literal for int() with base 10: '₽(;?)₽'
+ошибка: invalid literal for int() with base 10: 'про'
