@@ -2,3 +2,10 @@
 ошибка: invalid literal for int() with base 10: 'чавкала'
 ошибка: invalid literal for int() with base 10: '₽(;?)₽'
 ошибка: invalid literal for int() with base 10: 'про'
+ошибка: invalid mode: 'rd'
+ошибка: invalid mode: 'rd'
+ошибка: invalid mode: 'rd'
+ошибка: invalid mode: 'rd'
+ошибка: invalid mode: 'rd'
+ошибка: binary mode doesn't take an encoding argument
+ошибка: binary mode doesn't take an encoding argument
