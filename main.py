@@ -7,7 +7,7 @@ import cowsay
 while True:
     try:
         cowsay.cow('Bot Started...')
-        bot = telebot.TeleBot('6083235314:AAFQIA81hSoIT8vZ91J1IdMXx0jPbeIzwKQ')
+        bot = telebot.TeleBot('YOUR_BOT_TOKEN')
 
         upper_case = 'QWERTYUIOPASDFGHJKLZXCVBNM'
         lower_case = 'qwertyuiopasdfghjklzxcvbnm'
